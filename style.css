@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    position: relative;
+}
+p {
+    color: #0e0f0f;
+    background-color: #e9f1f1;
+    font-family: "Bandal", sans-serif;
+}
+h1 {
+    color: #191970;
+    font-family: "Roboto", cursive;
+}
+
+h2{
+    color:#e9f1f1
+    font-family "Roboto", cursive;
+}
+
+.inverso{
+    color:#000a0a;
+    background-color: #f6f7f7;
+    text-align: right;
+}
+div{
+    width: 60%;
+    margin: auto;
+    background-color: rgb(253, 245, 245);
+}
+#titulo{
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
+body {
+    background-image: url("fundo.png");
+  }
